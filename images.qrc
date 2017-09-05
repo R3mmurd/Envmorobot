@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="cells-icon">images/cells.png</file>
+        <file alias="close-icon">images/close.png</file>
+        <file alias="discretize-icon">images/discretize.png</file>
+        <file alias="exit-icon">images/exit.png</file>
+        <file alias="connectivity-icon">images/graph.png</file>
+        <file alias="open-icon">images/open.png</file>
+        <file alias="qtree-icon">images/quad_tree.png</file>
+        <file alias="robot-image">images/robot.png</file>
+        <file alias="rulers-icon">images/rulers.png</file>
+        <file alias="save-icon">images/save.png</file>
+        <file alias="vgraph-icon">images/visibility_graph.png</file>
+        <file alias="zoom-in-icon">images/zoom-in.png</file>
+        <file alias="zoom-original-icon">images/zoom-original.png</file>
+        <file alias="zoom-out-icon">images/zoom-out.png</file>
+        <file alias="clean-icon">images/broom.png</file>
+        <file alias="info-icon">images/exclamacion.png</file>
+        <file alias="path-icon">images/path.png</file>
+        <file alias="walking-robot-animation">images/animation.gif</file>
+        <file alias="mission-icon">images/mission.png</file>
+    </qresource>
+</RCC>

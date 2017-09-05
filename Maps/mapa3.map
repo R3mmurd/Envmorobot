@@ -1,0 +1,29 @@
+/* Mapa desarrollado por el Profesor Eladio Dapena
+/******************************************
+/* MAPA 3
+/*   Pared Inferior
+WA (0,0)(2.5,0)
+WA (3.5,0)(7.5,0)
+WA (8.5,0)(11,0)
+/* Pared Superior
+WA (0,11)(5,11)
+WA (6,11)(11,11)
+/* Pared Lateral Izquierda
+WA (0,0)(0,11)
+/* Pared Lateral Derecha
+WA (11,0)(11,11)
+/* Paredes internas
+WA (5.5,-1)(5.5,1)
+WA (5.5,5.5)(6.5,5.5)
+/* Puertas Inferiores
+DO (2.5,0)(3.5,0)
+DO (7.5,0)(8.5,0)
+/* Puerta Superior
+DO (5,11)(6,11)
+/* Obstáculos
+OB (1.5,1.5)(4.5,1.5)(4.5,9.5)(1.5,9.5)
+OB (6.5,1.5)(9.5,1.5)(9.5,9.5)(6.5,9.5)
+/* MISION
+NI (4,-2) NS
+NF (7,12) NS
+/************************************************
