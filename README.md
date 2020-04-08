@@ -9,7 +9,7 @@ technique for generating paths by building a graph. Those techniques are:
 discretizing, building square cells, building a quad tree and building a
 visibility graph.
 
-System requeriments:
+System requirements:
 
 - GNU/Linux Operating System
 - Any C++ compiler (clang preferably)
