@@ -9,14 +9,8 @@ technique for generating paths by building a graph. Those techniques are:
 discretizing, building square cells, building a quad tree and building a
 visibility graph.
 
-System requirements:
+## Requirements
 
-- GNU/Linux Operating System
-- Any C++ compiler (clang preferably)
+- C++ v14 or higher
 - Qt5
-- Aleph-w 
-
-TODO:
-- Write doc.
-
-Author: Alejandro J. Mujica (aledrums@gmail.com).
+- [Aleph-w](https://sourceforge.net/projects/aleph-w/)
